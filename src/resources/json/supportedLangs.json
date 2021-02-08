@@ -1,0 +1,27 @@
+{
+    "run": [
+        "assembly",
+        "c#",
+        "c++",
+        "f#",
+        "javascript",
+        "nimrod",
+        "python3",
+        "python2",
+        "q#",
+        "rust",
+        "bash",
+        "Others: https://tio.run/#"
+    ],
+    "beautify": [
+        "javascript",
+        "json",
+        "xml",
+        "html",
+        "css"
+    ],
+    "ref": [
+        "javascript;js",
+        "python;py"
+    ]
+}

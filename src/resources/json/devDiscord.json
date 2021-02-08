@@ -1,0 +1,62 @@
+{
+    "featured": {
+        "Xen Development": "https://discord.xendev.us",
+        "JS Hangout": "https://discord.gg/ftTWtcpVcy"
+    },
+    "javascript": {
+        "Discord.js Official": "https://discord.com/invite/bRCvFy9",
+        "JS Hub": "https://discord.com/invite/js",
+        "Discord Developers": "https://discord.gg/discord-developers",
+        "Reactiflux": "https://discord.com/invite/reactiflux",
+        "Javascript Universe": "https://top.gg/servers/720661480143454340/join",
+        "SpeakJS": "https://disboard.org/server/join/239433591950540801"
+    },
+    "c#": {
+        "C# Inn": "https://top.gg/servers/475671343463923714/join",
+        "C#": "https://discord.gg/csharp"
+    },
+    "c++": {
+        "C++ Help": "https://discord.com/invite/J5hBe8F",
+        "C++ Central": "https://disboard.org/server/join/762092545660158022",
+        "Better C++": "https://disboard.org/server/join/583251190591258624"
+    },
+    "python": {
+        "beginner.py": "https://disboard.org/server/join/644299523686006834",
+        "Python Discord": "https://discord.gg/python"
+    },
+    "java": {
+        "Java": "https://discord.com/invite/2Ud2XeRG",
+        "Learn Java": "https://disboard.org/server/join/702854497000751166",
+        "Java (Not Official)": "https://disboard.org/server/join/665951159567253529"
+    },
+    "html": {
+        "Web Devs": "https://discord.com/invite/yFDe4Hgn",
+        "Web Devs and Friends": "https://disboard.org/server/join/613018044192653342",
+        "Web Developers": "https://disboard.org/server/join/696086303133139024"
+    },
+    "lua": {
+        "Lua Scripters": "https://discord.com/invite/7wu7ZsW",
+        "Roblox Scripters": "https://disboard.org/server/join/728661302360408094",
+        "ScriptersCF": "https://disboard.org/server/join/306153640023031820"
+    },
+    "ts": {
+        "Typescript Community": "https://discord.com/invite/typescript"
+
+    },
+    "rust": {
+        "Rust Official": "https://discord.gg/rust-lang",
+        "Rust Community": "https://discord.com/invite/aVESxV8"
+    },
+    "go": {
+        "Discord Gophers": "https://discord.com/invite/0f1SbxBZjYq9jLBk"
+    },
+    "swift": {
+        "Swift Official": "https://discord.com/invite/0uZpB8GgRvoU12Ta",
+        "iOS Developement": "https://disboard.org/server/join/354030873126895619"
+    },
+    "all": {
+        "Plexi Development": "https://discord.gg/plexidev",
+        "The Coding Den": "https://discord.gg/code"
+    }
+
+}

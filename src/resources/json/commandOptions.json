@@ -1,0 +1,8 @@
+{
+    "api": [
+        "get",
+        "post",
+        "put",
+        "patch"
+    ]
+}
