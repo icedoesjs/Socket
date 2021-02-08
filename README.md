@@ -1,10 +1,12 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/iceyym8/Socket/graphs/commit-activity) 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/iceyym8/badges)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://github.com/iceyym8)
 
 <br />
 <p align="center">
   <a href="https://github.com/iceyym8/Socket">
-    <img src="https://cdn.discordapp.com/avatars/786481811681181738/d585d5527e7feaba43b49a8483870c8e.webpg" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/j4tyi7D.jpgg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Socket</h3>
@@ -31,7 +33,6 @@
         src="https://discordbotlist.com/bots/786481811681181738/widget"
         alt="Socket on Discord Bot List">
 </a>
-[![Bots for Discord](https://botsfordiscord.com/api/bot/786481811681181738/widget?theme=dark)](https://botsfordiscord.com/bot/786481811681181738)
 
 ## About the project
 Socket was an initial idea I had while making another bot, I thought what if I could search docs and execute code just from discord?
