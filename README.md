@@ -1,7 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/iceyym8/Socket/graphs/commit-activity) 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/iceyym8/badges)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://github.com/iceyym8)
 
 <br />
 <p align="center">
@@ -63,3 +62,5 @@ As I continue with new projects, I have less and less time for <bold>Socket</bol
 ## Contact me
 * Discord: [IceyyM8#0816](https://discord.xendev.us)
 * Twitter: [IceyyLeDev](https://twitter.com/IceyyLeDev)
+
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://github.com/iceyym8)
